@@ -1,6 +1,6 @@
 const users = {
-  firstName: 'Pranjal',
-  lastName: 'Gosavi',
+  firstName: 'Janhavi',
+  lastName: 'Hivarekar',
   age: 18,
   country: 'India',
 };
